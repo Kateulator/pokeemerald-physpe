@@ -1,4 +1,6 @@
-# Pokémon Emerald
+# Pokémon Emerald, now with physical/special split
+This adds the physical/special split from gen 4+ to Pokemon Emerald, that is all.
+oh and i changed the lotad in the intro to a murkrow, so you can see the patch is applied :3 
 
 This is a decompilation of Pokémon Emerald.
 
